@@ -12,7 +12,10 @@ Note the space in between first and last names.
 You can assume that neither firstName nor lastName will be blank
 ------------------------------------------------------------------------------------------------ */
 const toLastNames = people => {
-  // Solution code here...
+  let array = people.map((i) => {
+    let fullName = i.firstName + " " + i.lastName;
+    return
+}),
 };
 
 /* ------------------------------------------------------------------------------------------------
