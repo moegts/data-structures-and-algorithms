@@ -10,5 +10,4 @@
      I took the approach of making a for loop that loops through the input array by the range from the length to -1 with revers step -1 , Doing a for loop was what came to mind first then compleate it with  range 
 
 ## Solution
-
 ![Solution](./assest/Solution.jpg)
