@@ -9,7 +9,7 @@
 | Challenge 1   |    array-reverse    |    [solution Challenge 1](./python/array-reverse/README.md)    |
 | Challenge 2   | array-insert-shift  | [solution Challenge 2](./python/array-insert-shift/README.md)  |
 | Challenge 3   | array-binary-search | [solution Challenge 3](./python/array-binary-search/README.md) |
-| Challenge 4   |     Interviews      |                [solution Challenge 4](./python)                |
+| Challenge 4   |     Interviews      |     [solution Challenge 4](./python/Interviews/README.md)      |
 | Challenge 5   |       not yet       |                [solution Challenge 5](./python)                |
 | Challenge 6   |       not yet       |                [solution Challenge 6](./python)                |
 | Challenge 7   |       not yet       |                [solution Challenge 7](./python)                |
