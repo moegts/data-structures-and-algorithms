@@ -16,7 +16,7 @@ class LinkedList:
                 current = current.next
             return False
 
-    def toString(self):
+    def __str__(self):
         if self.head:
             dataStr, current = '', self.head
             while current:

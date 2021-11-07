@@ -25,14 +25,14 @@ def test_insert_multiple():
     ll.insert(66)
     ll.insert('second')
     expected = '{second}-> {66}-> {first}-> NULL'
-    actual = ll.toString()
+    actual = ll.__str__()
     assert expected == actual
 
 def test_insert_one():
     ll = LinkedList()
     ll.insert('first')
     expected = '{first}-> NULL'
-    actual = ll.toString()
+    actual = ll.__str__()
     assert expected == actual
 
 
