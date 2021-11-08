@@ -64,6 +64,19 @@ class Linkedlist:
             newNode = Node(newVal)
             newNode.next = current.next
             current.next = newNode
+
+
+    def kthFromEnd(self,k):
+        count, Current = 0, self.head
+        while Current.next is not  None:
+            count+=1
+            Current=Current.next
+        k_value=count-k ; Current =self.head
+        if k_value >=0:
+            for i in range(k_value+1):
+                value, Current = Current.value, Current.next
+            return value
+        else: raise Exception('value dose not exisit  ')   
             
 
 if __name__ == "__main__":
