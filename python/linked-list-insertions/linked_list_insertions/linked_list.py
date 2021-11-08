@@ -72,5 +72,4 @@ if __name__ == "__main__":
         List.append(55)
         List.append(66)
         List.append(10)
-        List.kthFromEnd(0)
         print(List)       
