@@ -4,7 +4,7 @@ Given a Linked List and a number n, write function returns the value at the n’
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![ch07](./codeCha07.jpg)
+![ch07](./whiteboard/codeCha07.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
