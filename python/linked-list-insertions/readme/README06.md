@@ -8,7 +8,7 @@ insertAfter(value, newVal) which add a new node with the given newValue immediat
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![ch06](./codeCha06.jpg)
+![ch06](../whiteboard/codeCha06.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
