@@ -47,3 +47,26 @@ enqueue() Appends a node to the end of the queue by pointing the current rear (i
 dequeue() removes a node from the front of the queue, if the queue is empty, we print a message and return the empty queue To remove the first node, we first store a reference to it in a temp variable We then reassign self.front to be the next item in the queue The return is a string of the value of the temp variable
 
 is_empty() Checks if self.front exists and returns a boolean
+
+## Code
+
+[stack](./stack_and_queue/stack.py)
+
+[queue](./stack_and_queue/queue.py)
+
+## Testing
+
+- [x] Can successfully push onto a stack
+- [x] Can successfully push multiple values onto a stack
+- [x] Can successfully pop off the stack
+- [x] Can successfully empty a stack after multiple pops
+- [x] Can successfully peek the next item on the stack
+- [x] Can successfully instantiate an empty stack
+- [x] Calling pop or peek on empty stack raises exception
+- [x] Can successfully enqueue into a queue
+- [x] Can successfully enqueue multiple values into a queue
+- [x] Can successfully dequeue out of a queue the expected value
+- [x] Can successfully peek into a queue, seeing the expected value
+- [x] Can successfully empty a queue after multiple dequeues
+- [x] Can successfully instantiate an empty queue
+- [x] Calling dequeue or peek on empty queue raises exception
