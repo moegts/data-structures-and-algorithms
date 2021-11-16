@@ -17,7 +17,7 @@
 | Challenge 9   | palindrome linked List is | [solution Challenge 9](https://docs.google.com/spreadsheets/d/1mpqvMM9De3cRQ5fky4Kez947aOmj00nXZeWUH8DOssU/edit#gid=0) |
 | Challenge 10  |     Stacks and Queues     |                              [solution Challenge 10](./python/stack-and-queue/README.md)                               |
 | Challenge 11  |    Stacks with Queues     |                        [solution Challenge 11](.python/../python/stack-queue-pseudo/README.md)                         |
-| Challenge 12  |          not yet          |                                           [solution Challenge 12](./python)                                            |
+| Challenge 12  |    Fifo Fnimal Shelter    |                         [solution Challenge 12](./python/stack_queue_animal_shelter/README.md)                         |
 | Challenge 13  |          not yet          |                                           [solution Challenge 13](./python)                                            |
 | Challenge 14  |          not yet          |                                           [solution Challenge 14](./python)                                            |
 | Challenge 15  |          not yet          |                                           [solution Challenge 15](./python)                                            |
