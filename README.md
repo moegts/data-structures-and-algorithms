@@ -18,7 +18,7 @@
 | Challenge 10  |     Stacks and Queues     |                              [solution Challenge 10](./python/stack-and-queue/README.md)                               |
 | Challenge 11  |    Stacks with Queues     |                        [solution Challenge 11](.python/../python/stack-queue-pseudo/README.md)                         |
 | Challenge 12  |    Fifo Fnimal Shelter    |                         [solution Challenge 12](./python/stack_queue_animal_shelter/README.md)                         |
-| Challenge 13  |          not yet          |                                           [solution Challenge 13](./python)                                            |
+| Challenge 13  |   Stack Queue Brackets    |                            [solution Challenge 13](./python/stack-queue-brackets/README.md)                            |
 | Challenge 14  |          not yet          |                                           [solution Challenge 14](./python)                                            |
 | Challenge 15  |          not yet          |                                           [solution Challenge 15](./python)                                            |
 | Challenge 16  |          not yet          |                                           [solution Challenge 16](./python)                                            |
