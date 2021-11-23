@@ -22,15 +22,15 @@
 | Challenge 14  |         Max stack         | [solution Challenge 14](https://docs.google.com/spreadsheets/d/1YWpL-vJKbLspMcdP8CYY7wBYp5IqYmBaJVM0BHQh8bw/edit#gid=0) |
 | Challenge 15  |           Tree            |                                  [solution Challenge 15](./python/tree-breadth-first)                                   |
 | Challenge 16  |         Tree Max          |                                  [solution Challenge 16](./python/tree-breadth-first)                                   |
-| Challenge 17  |          not yet          |                                            [solution Challenge 17](./python)                                            |
+| Challenge 17  |  Breadth-first Traversal  |                          [solution Challenge 17](./python/tree-breadth-first-lab17/README.md)                           |
+| Challenge 18  |          not yet          |                                            [solution Challenge 18](./python)                                            |
+| Challenge 19  |          not yet          |                                            [solution Challenge 19](./python)                                            |
+| Challenge 20  |          not yet          |                                            [solution Challenge 20](./python)                                            |
+| Challenge 21  |          not yet          |                                            [solution Challenge 21](./python)                                            |
+| Challenge 22  |          not yet          |                                            [solution Challenge 22](./python)                                            |
+| Challenge 23  |          not yet          |                                            [solution Challenge 23](./python)                                            |
+| Challenge 24  |          not yet          |                                            [solution Challenge 24](./python)                                            |
+| Challenge 25  |          not yet          |                                            [solution Challenge 25](./python)                                            |
 | Challenge 26  |          not yet          |                                            [solution Challenge 26](./python)                                            |
 | Challenge 27  |          not yet          |                                            [solution Challenge 27](./python)                                            |
 | Challenge 28  |          not yet          |                                            [solution Challenge 28](./python)                                            |
-| Challenge 30  |          not yet          |                                            [solution Challenge 30](./python)                                            |
-| Challenge 31  |          not yet          |                                            [solution Challenge 31](./python)                                            |
-| Challenge 32  |          not yet          |                                            [solution Challenge 32](./python)                                            |
-| Challenge 33  |          not yet          |                                            [solution Challenge 33](./python)                                            |
-| Challenge 34  |          not yet          |                                            [solution Challenge 34](./python)                                            |
-| Challenge 36  |          not yet          |                                            [solution Challenge 36](./python)                                            |
-| Challenge 37  |          not yet          |                                            [solution Challenge 37](./python)                                            |
-| Challenge 38  |          not yet          |                                            [solution Challenge 38](./python)                                            |
