@@ -23,7 +23,7 @@
 | Challenge 15  |           Tree            |                                  [solution Challenge 15](./python/tree-breadth-first)                                   |
 | Challenge 16  |         Tree Max          |                                  [solution Challenge 16](./python/tree-breadth-first)                                   |
 | Challenge 17  |  Breadth-first Traversal  |                          [solution Challenge 17](./python/tree-breadth-first-lab17/README.md)                           |
-| Challenge 18  |          not yet          |                                            [solution Challenge 18](./python)                                            |
+| Challenge 18  |      tree-fizz-buzz       |                               [solution Challenge 18](./python/tree-fizz-buzz/README.md)                                |
 | Challenge 19  |          not yet          |                                            [solution Challenge 19](./python)                                            |
 | Challenge 20  |          not yet          |                                            [solution Challenge 20](./python)                                            |
 | Challenge 21  |          not yet          |                                            [solution Challenge 21](./python)                                            |
