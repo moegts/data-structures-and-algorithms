@@ -23,9 +23,9 @@
 | Challenge 15  |           Tree            |                                  [solution Challenge 15](./python/tree-breadth-first)                                   |
 | Challenge 16  |         Tree Max          |                                  [solution Challenge 16](./python/tree-breadth-first)                                   |
 | Challenge 17  |  Breadth-first Traversal  |                          [solution Challenge 17](./python/tree-breadth-first-lab17/README.md)                           |
-| Challenge 18  |      tree-fizz-buzz       |                               [solution Challenge 18](./python/tree-fizz-buzz/README.md)                                |
-| Challenge 19  |      insertion-sort       |                               [solution Challenge 19](./python/insertion-sort/README.md)                                |
-| Challenge 20  |          not yet          |                                            [solution Challenge 20](./python)                                            |
+| Challenge 18  |      Tree-fizz Buzz       |                               [solution Challenge 18](./python/tree-fizz-buzz/README.md)                                |
+| Challenge 19  |      Insertion Sort       |                               [solution Challenge 19](./python/insertion-sort/README.md)                                |
+| Challenge 20  |        Merge Sort         |                                 [solution Challenge 20](./python/merge-sort/README.md)                                  |
 | Challenge 21  |          not yet          |                                            [solution Challenge 21](./python)                                            |
 | Challenge 22  |          not yet          |                                            [solution Challenge 22](./python)                                            |
 | Challenge 23  |          not yet          |                                            [solution Challenge 23](./python)                                            |
@@ -34,3 +34,4 @@
 | Challenge 26  |          not yet          |                                            [solution Challenge 26](./python)                                            |
 | Challenge 27  |          not yet          |                                            [solution Challenge 27](./python)                                            |
 | Challenge 28  |          not yet          |                                            [solution Challenge 28](./python)                                            |
+
