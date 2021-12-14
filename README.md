@@ -29,7 +29,7 @@
 | Challenge 21  |        Quick Sort         |                                 [solution Challenge 21](./python/quick-sort/README.md)                                  |
 | Challenge 22  |        Hash Table         |                                 [solution Challenge 22](./python/hash_table/README.md)                                  |
 | Challenge 23  |   Hashmap Repeated Word   |                            [solution Challenge 23](./python/hashmap-repeated-word/README.md)                            |
-| Challenge 24  |          not yet          |                                            [solution Challenge 24](./python)                                            |
+| Challenge 24  |     tree-intersection     |                              [solution Challenge 24](./python/tree-intersection/README.md)                              |
 | Challenge 25  |          not yet          |                                            [solution Challenge 25](./python)                                            |
 | Challenge 26  |          not yet          |                                            [solution Challenge 26](./python)                                            |
 | Challenge 27  |          not yet          |                                            [solution Challenge 27](./python)                                            |
