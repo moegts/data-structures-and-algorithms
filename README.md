@@ -34,3 +34,4 @@
 | Challenge 26  |          not yet          |                                            [solution Challenge 26](./python)                                            |
 | Challenge 27  |          not yet          |                                            [solution Challenge 27](./python)                                            |
 | Challenge 28  |          not yet          |                                            [solution Challenge 28](./python)                                            |
+| Challenge 29  |          not yet          |                                            [solution Challenge 29](./python)                                            |
