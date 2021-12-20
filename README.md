@@ -30,8 +30,7 @@
 | Challenge 22  |       Hash Table        |                                 [solution Challenge 22](./python/hash_table/README.md)                                  |
 | Challenge 23  |  Hashmap Repeated Word  |                            [solution Challenge 23](./python/hashmap-repeated-word/README.md)                            |
 | Challenge 24  |    Hashmap Left Join    |                              [solution Challenge 24](./python/hashmap-left-join/README.md)                              |
-| Challenge 25  |          Graph          |                                            [solution Challenge 25](./python/graph/README.md)                                            |
-| Challenge 26  |         not yet         |                                            [solution Challenge 26](./python)                                            |
+| Challenge 25  |          Graph          |                                    [solution Challenge 25](./python/graph/README.md)                                    |
+| Challenge 26  |   Graph Breadth First   |                             [solution Challenge 26](./python/graph-breadth-first/README.md)                             |
 | Challenge 27  |         not yet         |                                            [solution Challenge 27](./python)                                            |
 | Challenge 28  |         not yet         |                                            [solution Challenge 28](./python)                                            |
-| Challenge 29  |         not yet         |                                            [solution Challenge 29](./python)                                            |
