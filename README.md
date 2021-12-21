@@ -32,5 +32,5 @@
 | Challenge 24  |    Hashmap Left Join    |                              [solution Challenge 24](./python/hashmap-left-join/README.md)                              |
 | Challenge 25  |          Graph          |                                    [solution Challenge 25](./python/graph/README.md)                                    |
 | Challenge 26  |   Graph Breadth First   |                             [solution Challenge 26](./python/graph-breadth-first/README.md)                             |
-| Challenge 27  |         not yet         |                                            [solution Challenge 27](./python)                                            |
+| Challenge 27  |   Graph Business Trip   |                             [solution Challenge 27](./python/graph-business-trip/README.md)                             |
 | Challenge 28  |         not yet         |                                            [solution Challenge 28](./python)                                            |
