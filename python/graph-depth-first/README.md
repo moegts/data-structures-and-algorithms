@@ -6,7 +6,13 @@ Conduct a depth first preorder traversal on a graph
 
 ## Whiteboard Process
 
+### code challenge 37
+
 ![board](./assets/cc37.jpg)
+
+### code challenge 38
+
+![board](./assets/cc38.jpg)
 
 ## Approach
 
