@@ -33,3 +33,4 @@
 | Challenge 25  |          Graph          |                                    [solution Challenge 25](./python/graph/README.md)                                    |
 | Challenge 26  |   Graph Breadth First   |                             [solution Challenge 26](./python/graph-breadth-first/README.md)                             |
 | Challenge 27  |   Graph Business Trip   |                             [solution Challenge 27](./python/graph-business-trip/README.md)                             |
+| Exam 🌲 Tree  |   Treeeeeeeeeeeeeeees   |                                  [screenshoots treeeees](./python/401_exam_prepare_trees)                               |
